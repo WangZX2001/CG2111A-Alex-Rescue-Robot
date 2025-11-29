@@ -1,4 +1,4 @@
-#CG2111A Alex Rescue Robot
+# Alex Rescue Robot
 
 A tele-operated robotic vehicle designed for search-and-rescue operations in a simulated lunar environment. Features LIDAR-based navigation, dual rescue mechanisms (robotic claw and medpack dispenser), and real-time color-based astronaut identification.
 
@@ -12,10 +12,6 @@ A tele-operated robotic vehicle designed for search-and-rescue operations in a s
 - 🦾 Robotic claw for physical relocation
 - 💊 Precision medpack delivery system
 - 🎮 Tele-operated control with multiple speed modes
-
-**Team:** B04-3B  
-**Course:** CG2111A - Engineering Principles and Practice II  
-**Semester:** 2, 2024/2025
 
 ---
 
