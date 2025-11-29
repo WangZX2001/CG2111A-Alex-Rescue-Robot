@@ -449,26 +449,6 @@ flowchart TD
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── README.md
-├── CG2111A Final Report.pdf
-└── Code/
-    ├── Arduino/
-    │   ├── alex_main.ino           # Main firmware loop
-    │   ├── motor_control.ino       # Motor + encoder functions
-    │   ├── color_sensor.ino        # TCS3200 detection logic
-    │   └── servo_control.ino       # Claw + medpack servos
-    └── RaspberryPi/
-        ├── teleoperation.py        # Main control software
-        ├── slam_mapping.py         # BreezySlam LIDAR processing
-        ├── serial_comm.py          # UART packet handler
-        └── immediate_input.py      # getch() implementation
-```
-
----
-
 ## 🔬 State of the Art Comparison
 
 ### Jueying X20 Robot Dog (He, 2023)
